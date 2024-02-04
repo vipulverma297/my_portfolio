@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e0d6029.css",
+    "main.js": "/static/js/main.2eea75fb.js",
+    "static/media/Project5.png": "/static/media/Project5.53ec67841637c0405c0f.png",
+    "static/media/git.png": "/static/media/git.8fa70958960c0b9085e8.png",
+    "static/media/golf-club.png": "/static/media/golf-club.ede280a218f8d3db8aaa.png",
+    "static/media/vscode.png": "/static/media/vscode.9bc6e588b5f2b867a8a4.png",
+    "static/media/vipul.jpeg": "/static/media/vipul.173eb357e605f601bf4f.jpeg",
+    "static/media/Project2.png": "/static/media/Project2.ca64a133eadd7f1d01a9.png",
+    "static/media/js.png": "/static/media/js.062825dbceed44567e91.png",
+    "static/media/svn.jpg": "/static/media/svn.d1d6fd0bb99a3eb22a5c.jpg",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/nextjs.svg": "/static/media/nextjs.8a26c6f656d026180b394559f9acbf79.svg",
+    "index.html": "/index.html",
+    "static/media/mui.svg": "/static/media/mui.741a52f5f54e0b6073e48671571738ea.svg",
+    "main.3e0d6029.css.map": "/static/css/main.3e0d6029.css.map",
+    "main.2eea75fb.js.map": "/static/js/main.2eea75fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0d6029.css",
+    "static/js/main.2eea75fb.js"
+  ]
+}
